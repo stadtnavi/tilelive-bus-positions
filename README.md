@@ -1,4 +1,4 @@
-## Road weather tile layer for hsl-map-server
+## Bus position tile layer for hsl-map-server
 
 A tile layer that reads GeoJSON data outputs tiles to display in the browser.
 
